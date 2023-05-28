@@ -1,10 +1,18 @@
+:root {
+  --very-dark-blue: hsl(217, 54%, 11%);
+  --very-dark-blue: hsl(216, 50%, 16%);
+  --very-dark-blue: hsl(215, 32%, 27%);
+  --white: hsl(0, 0%, 100%);
+  --soft-blue: hsl(215, 51%, 70%);
+  --cyan: hsl(178, 100%, 50%);
+}
+body {
+  font-family: "Outfit", sans-serif;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
-}
-body {
-  font-family: "Outfit", sans-serif;
 }
